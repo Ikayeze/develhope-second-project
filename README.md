@@ -1,2 +1,1 @@
-# develhope-second-project
-data visualization with python
+Analysis of the google playstore dataset with pythom
